@@ -22,4 +22,4 @@ This exercise is to provide 2 interactive dashboards for the user to explore:
 * Thich time of the day is generally busier
 
 ## Dataset 3: Motor Corporation Sales Data
-This exercise is to clean the data using Tableau Builder and develop multiple dashboards including performance, financial, operations and forcasting of the Motor Corporation.
+This exercise is to clean the data using Tableau Prep Builder and develop multiple dashboards including performance, financial, operations and forcasting of the Motor Corporation.
